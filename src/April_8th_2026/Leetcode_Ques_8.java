@@ -30,5 +30,6 @@ public class Leetcode_Ques_8 {
         String s = sc.nextLine();
 
         System.out.println(myAtoi(s));
+
     }
 }
